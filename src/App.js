@@ -23,8 +23,8 @@ class App extends React.Component {
         { title: "contact", path: "/contact" }
       ],
       home: {
-        title: "Show must start",
-        subtitle: "Projects that show off",
+        title: "Show must go on",
+        subTitle: "Projects that show off",
         text: "Checkout our projects below"
       },
       about: {
