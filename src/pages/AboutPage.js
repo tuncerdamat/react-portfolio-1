@@ -10,7 +10,7 @@ function AboutPage(props){
             <Content>
                 <p>We are two brothers and software engineers focused on web development.</p>
                 <p>Deniz ...</p>
-                <p>Tunçer works as a web developer based on PHP in Milan, Italy for five years.</p>
+                <p>Tunçer works as a web developer based on PHP in Milan, Italy for {(new Date().getFullYear()) - 2016} years.</p>
             </Content>
         </div>
     );
